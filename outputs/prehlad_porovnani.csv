@@ -1,0 +1,17 @@
+"krajina","ukazovatel","porovnanie","kandidati","vylucene_pre_zlom","pouzitelne"
+"Czechia","zamestnanost","subezne",15,1,14
+"Hungary","zamestnanost","subezne",15,1,14
+"Poland","zamestnanost","subezne",15,1,14
+"Slovakia","zamestnanost","subezne",15,1,14
+"Czechia","zamestnanost","oneskorene_1_rok",14,0,14
+"Hungary","zamestnanost","oneskorene_1_rok",14,1,13
+"Poland","zamestnanost","oneskorene_1_rok",14,1,13
+"Slovakia","zamestnanost","oneskorene_1_rok",14,0,14
+"Czechia","nezamestnanost","subezne",15,1,14
+"Hungary","nezamestnanost","subezne",15,1,14
+"Poland","nezamestnanost","subezne",15,1,14
+"Slovakia","nezamestnanost","subezne",15,1,14
+"Czechia","nezamestnanost","oneskorene_1_rok",14,0,14
+"Hungary","nezamestnanost","oneskorene_1_rok",14,1,13
+"Poland","nezamestnanost","oneskorene_1_rok",14,1,13
+"Slovakia","nezamestnanost","oneskorene_1_rok",14,0,14
